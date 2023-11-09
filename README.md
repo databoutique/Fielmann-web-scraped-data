@@ -1,0 +1,14 @@
+# Fielmann web scraped data 
+
+## About the website
+
+**Fielmann** is a renowned German eyewear company founded by Guenther Fielmann in 1972. The company, which specializes in manufacturing and retailing optical goods, has its headquarters located in Hamburg, Germany. Fielmann is a publicly listed company and its stock is traded on the Frankfurt Stock Exchange under the symbol **FIE**. The company went public on June 24th, 1996 with a market cap of $803 million at IPO. Fielmann boasts over 850 branches in Europe serving millions of customers annually. They pride themselves in a diverse range of over 1,000 frames from renowned manufacturers. For more information, you can visit _[Fielmanns Wikipedia page](https://en.wikipedia.org/wiki/Fielmann)_ and its _[Bloomberg Profile](https://www.bloomberg.com/profile/company/FIE:GR)_. 
+
+Fielmann contends fiercely with numerous competitors, one of the largest among them being **EssilorLuxottica**, a France-based global leader specializing in designing, manufacturing, and marketing a variety of eyewear. Another chief competitor is **GrandVision**, a global optical retailer with 7,000 stores spread across more than 40 countries. Germany-based **Apollo-Optik** is also a notable competitor having more than 800 stores in the country. You can check out these competitors through their respective links: _[EssilorLuxotticas Wikipedia page](https://en.wikipedia.org/wiki/EssilorLuxottica)_, _[EssilorLuxotticas Bloomberg Profile](https://www.bloomberg.com/profile/company/EL:FP)_, _[GrandVisions Wikipedia page](https://en.wikipedia.org/wiki/GrandVision)_, _[GrandVisions Bloomberg Profile](https://www.bloomberg.com/profile/company/GVNV:NA)_, _[Apollo-Optiks website](https://www.apollo.de/)_, and _[Apollo-Optiks Bloomberg Profile](https://www.bloomberg.com/profile/company/1176706D:GR)_. 
+
+Fielmanns website offers a wealth of data that could be of significant benefit when web scraped. For instance, prices and discounts on all their product lines, including glasses, sunglasses, and contact lenses can be extracted. This data can assist in comparative analyses, pricing insights, observing market trends, and in making strategic competitive pricing decisions. Additionally, it provides product descriptions and specifications which can be used to analyze product portfolios and identify gaps in the market. Also, user reviews and ratings can be scraped to gauge the level of customer satisfaction, which is crucial in defining product development and marketing strategies. Proper use of the factual data from Fielmanns website can therefore provide valuable insights into the complexities of the eyewear industry.
+
+
+## Link to **dataset**
+
+[Fielmann dataset](https://www.databoutique.com/buy-data-list-subset/Fielmann%20web%20scraped%20data/r/recZuTPd28iKwC6yP)
